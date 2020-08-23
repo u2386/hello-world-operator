@@ -1,0 +1,7 @@
+apiVersion: hello.operators.u2386.github.com/v1beta1
+kind: HelloWorld
+metadata:
+  name: example-helloworld
+spec:
+  # Add fields here
+  size: 3
